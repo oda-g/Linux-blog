@@ -8,6 +8,9 @@ https://docs.kernel.org/
   - 各バージョン  
 https://www.kernel.org/doc/html/
 
+- READEME寄せ集め  
+https://www.kernel.org/doc/readme/
+
 - ドキュメント(トピック)
   - Makefile  
 https://www.kernel.org/doc/html/latest/kbuild/makefiles.html
