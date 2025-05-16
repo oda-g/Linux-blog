@@ -89,6 +89,15 @@ Ubuntuのコンフィグでは、Ubuntu特有パッチ内のファイルを参�
 
 それぞれ、空文字列にすればOK。(Ubuntuのパッチを当ててビルドする場合は、修正不要)
 
+## 補足(参考)
+
+以下のドキュメントが用意されていた。ご参考まで。
+
+- Ubuntu Kernel documentation  
+https://canonical-kernel-docs.readthedocs-hosted.com/en/latest/
+  - How to build an Ubuntu Linux kernel  
+https://canonical-kernel-docs.readthedocs-hosted.com/en/latest/how-to/develop-customise/build-kernel/
+
 ## 解析準備メモ(Ubuntu編)
 
 Ubuntuのコンフィグをベースにした場合、トレースツール、crash等が使える状態になっている。例えば、debuginfo 付でコンパイルされている。ビルドした環境を維持しておけば、debuginfo パッケージは必要ない。
