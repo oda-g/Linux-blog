@@ -7,7 +7,8 @@
 ## ブログ「新Linuxカーネル解読室落穂拾い」一覧
 
 - [新Linuxカーネル解読室落穂拾い(1)](https://valinux.hatenablog.com/entry/20250724)  
-- 新Linuxカーネル解読室落穂拾い(2)(8月公開予定) 
+- [新Linuxカーネル解読室落穂拾い(2)](https://www.valinux.co.jp/blog/entry/20250821) 
+- 新Linuxカーネル解読室落穂拾い(3)(構想中)
 
 ## その他
 
