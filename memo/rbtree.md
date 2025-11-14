@@ -4,7 +4,7 @@ red black tree の理解のため、自分でもプログラムを書いて動�
 
 コードは、以下。
 
-src/rbtree/rbtree.py
+[rbtree.py](https://github.com/oda-g/Linux-blog/tree/main/src/rbtree/rbtree.py)
 
 ロジックとしては、Linuxの実装と全く同じである。ただし、Linuxのコードから以下の改善を加えている。
 
@@ -15,4 +15,4 @@ src/rbtree/rbtree.py
 
 簡単のため、キー(int)、比較関数もclassに入れている。
 
-src/rbtree/rbtest.py は、動作確認のために使用したプログラム。適当に修正し、動作を試してみるとよい。
+[rbtest.py](https://github.com/oda-g/Linux-blog/tree/main/src/rbtree/rbtest.py) は、動作確認のために使用したプログラム。適当に修正し、動作を試してみるとよい。
