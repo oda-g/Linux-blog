@@ -6,11 +6,13 @@
 
 ## ブログ「新Linuxカーネル解読室落穂拾い」一覧
 
-- [新Linuxカーネル解読室落穂拾い(1)](https://valinux.hatenablog.com/entry/20250724)  
+- [新Linuxカーネル解読室落穂拾い(1)](https://www.valinux.co.jp/blog/entry/20250724)  
 - [新Linuxカーネル解読室落穂拾い(2)](https://www.valinux.co.jp/blog/entry/20250821) 
 - [新Linuxカーネル解読室落穂拾い(3)](https://www.valinux.co.jp/blog/entry/20251211)
 - [新Linuxカーネル解読室落穂拾い(4)](https://www.valinux.co.jp/blog/entry/20251218)
-- 新Linuxカーネル解読室落穂拾い(5)(構想中)
+- [新Linuxカーネル解読室落穂拾い(5)](https://www.valinux.co.jp/blog/entry/20260625)
+- 新Linuxカーネル解読室落穂拾い(6) RCUの続編。コード調査中。  
+RCUの記事は、少し難しい内容になってしまった。SMPの入門編について、構想中。(RCUが片付いてから)
 
 ## その他
 
